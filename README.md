@@ -27,7 +27,10 @@ I'm working on it
 - Experience: 0 year 🧑🏻‍💻
 - Education: 3rd year at Ptit
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazerMf)](https://github.com/anuraghazra/github-readme-stats)<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazermf&show_icons=true&locale=en&layout=compact" alt="hazermf" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hazermf&show_icons=true&locale=en" alt="hazermf" /></p>
+
 I know, I'm also working on that ^
 
 <!--
