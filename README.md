@@ -26,12 +26,19 @@ I'm working on it
 - Location: Hanoi
 - Experience: 0 year 🧑🏻‍💻
 - Education: 3rd year at Ptit
+- VSC enthusiast, I hate IDE
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazermf&show_icons=true&locale=en&layout=compact" alt="hazermf" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hazermf&show_icons=true&locale=en" alt="hazermf" /></p>
 
 I know, I'm also working on that ^
+
+## Other platform
+Catch up to see what this degen is on<br>
+[![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)]([#](https://anilist.co/user/HaZerMf/))
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-1A1F71%3Flogo%3Dletterboxd%26logoColor%3Dfff?logo=https%3A%2F%2Fa.ltrbxd.com%2Flogos%2Fletterboxd-logo-h-neg-rgb-1000px.png)](#)
+
 
 <!--
 **hazerMf/hazerMf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
