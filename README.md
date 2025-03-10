@@ -28,9 +28,10 @@ I'm working on it
 - Education: 3rd year at Ptit
 - VSC enthusiast, I hate IDE
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hazerMf&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hazerMf&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazerMfE&layout=compact&theme=dark)<br/>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazerMfE&layout=compact&theme=dark)<br/> -->
+
 
 
 I know, I'm also working on that ^
