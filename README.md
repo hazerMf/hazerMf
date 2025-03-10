@@ -28,9 +28,9 @@ I'm working on it
 - Education: 3rd year at Ptit
 - VSC enthusiast, I hate IDE
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazermf&show_icons=true&locale=en&layout=compact" alt="hazermf" /></p>
+![](https://github-readme-stats.vercel.app/api?username=hazerMf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hazermf&show_icons=true&locale=en" alt="hazermf" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazerMf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
 I know, I'm also working on that ^
 
