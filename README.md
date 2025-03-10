@@ -28,13 +28,17 @@ I'm working on it
 - Education: 3rd year at Ptit
 - VSC enthusiast, I hate IDE
 
-![](https://github-readme-stats.vercel.app/api?username=hazerMf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hazerMf&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazerMf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazerMfE&layout=compact&theme=dark)<br/>
+
 
 I know, I'm also working on that ^
 
 ## Other platform
+Working on a fortfolio, coming soon
+
+<!--
 Catch up to see what this degen is on<br>
 [![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)]([#](https://anilist.co/user/HaZerMf/))
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-1A1F71%3Flogo%3Dletterboxd%26logoColor%3Dfff?logo=https%3A%2F%2Fa.ltrbxd.com%2Flogos%2Fletterboxd-logo-h-neg-rgb-1000px.png)](#)
