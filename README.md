@@ -26,7 +26,7 @@ I'm working on it
 - Location: Hanoi
 - Experience: 0 year 🧑🏻‍💻
 - Education: 3rd year at Ptit
-- VSC enthusiast, I hate IDE
+- VSC enthusiast, hate IDE
 
 ![Your GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hazerMf&show_icons=true&theme=radical)
 
